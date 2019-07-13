@@ -52,7 +52,7 @@
 					<repository>docker.io/doanthaibao/${project.artifactId}</repository>
 					<useMavenSettingsForAuth>true</useMavenSettingsForAuth>
 					<username>doanthaibao</username>
-					<password>Kimdung003007</password>
+					<password>xxxx</password>
 					<tag>${project.version}</tag>
 				</configuration>
 				<executions>
